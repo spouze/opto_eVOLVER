@@ -1,2 +1,2 @@
 Screenshots of the code
-![[UI.png]]
+![alt text](UI.png)
