@@ -12,7 +12,7 @@
 ```
 sudo apt-get update
 sudo apt-get upgrade
-sudo pat-get install npm
+sudo apt-get install npm
 ```
 - update node to v17.6.0 and nodejs to v10.19.0 (at least) 
 ```
