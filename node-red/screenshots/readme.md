@@ -1,5 +1,3 @@
 Screenshots of the code
 
-![](UI.png)
-
-<img src="UI.png" width="48">
+<img src="UI.png" width="1000">
