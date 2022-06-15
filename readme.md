@@ -34,8 +34,14 @@ node-red
 Look for "Server now running at http://127.0.0.1:1880/". <br/>
 Copy Paste this URL (might change) in your favorite web browser.
 
-- 
-
+- Install packages needed for the code via the palette:
+  - node-red-contrib-configurable-interval
+  - node-red-contrib-counter
+  - node-red-contrib-pid
+  - node-red-contrib-simpletime
+  - node-red-dashboard
+  - node-red-node-serialport
+  - node-red-node-arduino
 
 
 ## Copyright and License
