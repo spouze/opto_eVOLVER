@@ -5,6 +5,8 @@ Default UI:
 
 # Running code
 
+Setting up the UI:
+
 Ui elements, associated variables.. | ..and display
 :-------------------------:|:-------------------------:
 ![](01_init.png)  |  ![](02_init.png)
